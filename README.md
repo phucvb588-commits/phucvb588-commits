@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://www.facebook.com/SDNJIX"><img src="https://img.shields.io/badge/Facebook-00ff00?style=for-the-badge&logo=facebook&logoColor=black"></a>
-  <a href="mailto:phucvb9@gmail.com"><img src="https://img.shields.io/badge/Gmail-00ff00?style=for-the-badge&logo=gmail&logoColor=black"></a>
+  <a href="mailto:trannguyentanphuc01092006@gmail.com"><img src="https://img.shields.io/badge/Gmail-00ff00?style=for-the-badge&logo=gmail&logoColor=black"></a>
   <a href="https://www.tiktok.com/@user7967931967665?is_from_webapp=1&sender_device=pc"><img src="https://img.shields.io/badge/TikTok-00ff00?style=for-the-badge&logo=tiktok&logoColor=black"></a>
 </p>
 
