@@ -6,17 +6,20 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+---
+
 ## 🧑‍💻 GIỚI THIỆU
 
-```
 > Tên: SD (Tấn Phúc)
 > Vai trò: Lập trình viên Fullstack
 > Kỹ năng: Backend | Frontend | Sáng tạo nội dung
 > Vị trí: Việt Nam
 > Trạng thái: Đang học & phát triển...
-```
 
----
 
 ## 🛠️ TECH STACK
 
@@ -29,18 +32,38 @@
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phucvb588-commits&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=phucvb588&show_icons=true&theme=chartreuse-dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phucvb588-commits&theme=chartreuse-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phucvb588&theme=chartreuse-dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucvb588-commits&layout=compact&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucvb588&layout=compact&theme=chartreuse-dark" />
 </p>
 
 ---
+
+## 🎯 MỤC TIÊU HIỆN TẠI
+
+- 🚀 Xây dựng website & hệ thống backend
+- ⚡ Tối ưu hiệu năng
+- 🎨 Thiết kế UI/UX hiện đại
+- 💡 Phát triển kỹ năng lập trình
+
+---
+
+## 🌐 KẾT NỐI
+
+<p align="center">
+  <a href="https://www.facebook.com/SDNJIX"><img src="https://img.shields.io/badge/Facebook-00ff00?style=for-the-badge&logo=facebook&logoColor=black"></a>
+  <a href="mailto:trannguyentanphuc01092006@gmail.com"><img src="https://img.shields.io/badge/Gmail-00ff00?style=for-the-badge&logo=gmail&logoColor=black"></a>
+  <a href="https://www.tiktok.com/@user7967931967665?is_from_webapp=1&sender_device=pc"><img src="https://img.shields.io/badge/TikTok-00ff00?style=for-the-badge&logo=tiktok&logoColor=black"></a>
+</p>
+
+---
+
 
 ## 🎯 MỤC TIÊU HIỆN TẠI
 
@@ -67,6 +90,7 @@
 > Truy cập thành công ✅
 > Chào mừng đến GitHub của tôi 🚀
 ```
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=120&section=footer"/>
