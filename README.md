@@ -31,17 +31,7 @@
 
 ## 📊 GITHUB STATS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phucvb588&show_icons=true&theme=chartreuse-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phucvb588&theme=chartreuse-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucvb588&layout=compact&theme=chartreuse-dark" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=phucvb588-commits&show_icons=true&theme=chartreuse-dark" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=phucvb588-commits&theme=chartreuse-dark" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucvb588-commits&layout=compact&theme=chartreuse-dark" /> </p>
 
 ---
 
